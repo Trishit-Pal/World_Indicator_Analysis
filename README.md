@@ -1,4 +1,5 @@
-<img width="1065" height="711" alt="Screenshot 2026-02-19 185634" src="https://github.com/user-attachments/assets/9362bb68-856d-4db0-88ad-a537977f2b14" />
+<img width="1060" height="696" alt="World_Indicator_Analytics" src="https://github.com/user-attachments/assets/781f240b-9fc5-449a-bf22-1996ffdd3f5e" />
+
 
 ## Project Overview
 
